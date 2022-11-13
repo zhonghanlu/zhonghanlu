@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @zhonghanlu
-- 👀 One year's junior Java development    Inspired to be a full stack engineer
+- 👀 One year's junior Java development,Inspired to be a full stack engineer
