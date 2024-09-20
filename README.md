@@ -3,3 +3,4 @@
  
     ![](https://komarev.com/ghpvc/?username=zhonghanlu)
     ![](https://github-readme-stats.vercel.app/api?username=zhonghanlu&show_icons=true&theme=transparent)
+    ![Visitor Count](https://profile-counter.glitch.me/zhonghanlu/count.svg)
