@@ -9,7 +9,7 @@
 
 <p align="center">
     <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api?username=zhonghanlu&show_icons=true&theme=algolia&hide=contribs,prs" alt="Aceld's github stats" /> 
-    <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=zhonghanlu&layout=compact&theme=algolia&hide=HTML,Shell" />
+    <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=zhonghanlu&layout=compact&theme=algolia" />
 </p>
 
 ## 👨‍💻 My GitHub activities of last 31 days.
