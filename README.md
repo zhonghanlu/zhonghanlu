@@ -8,9 +8,8 @@
 ## 📈 My GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/?username=zhonghanlu&theme=shades-of-purple&show_icons=true&count_private=true" alt="Alex's GitHub Stats">
-    <!-- Top Langs - https://github.com/anuraghazra/github-readme-stats -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhonghanlu&layout=compact&theme=tokyonight&hide=ejs,blade,html,css" alt="Alex's Top Langs">
+    <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api?username=zhonghanlu&show_icons=true&theme=algolia&hide=contribs,prs" alt="Aceld's github stats" /> 
+    <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=zhonghanlu&layout=compact&theme=algolia" />
 </p>
 
 ## 👨‍💻 My GitHub activities of last 31 days.
